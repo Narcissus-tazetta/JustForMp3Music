@@ -1,2 +1,2 @@
-# JustForMp3Music
-mp３を追加するだけ
+minecraftのetched modのmp3をアップロードするだけのものです。
+
